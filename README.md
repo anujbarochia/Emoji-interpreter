@@ -16,7 +16,8 @@ Step5: Run `npm start` command to start your react app.
 
 # Application Link
 
-Code Link -> [https://github.com/anujbarochia/Emoji-interpreter](https://github.com/anujbarochia/Emoji-interpreter)
+Code Link -> [Click Here](https://github.com/anujbarochia/Emoji-interpreter) <br>
+Live Demo -> [Click Here](https://anujbarochia-emoji-interpreter.netlify.app)
 
 # Tech Stack
 
